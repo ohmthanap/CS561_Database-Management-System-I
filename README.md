@@ -26,5 +26,5 @@ Introduction to the design and querying of relational databases. Topics include:
 
 - **Programming:** SQL
 - **Software:** Postgres
-- **Database skills:** Relational Model, SQL, Advanced SQL, Relational Database, Design and the E-R model, Relational Databse Design
+- **Database skills:** Relational Model, SQL, Advanced SQL, Relational Database Design and the E-R model, Relational Database Design
 
